@@ -14,6 +14,7 @@ Coopanion 是一个桌面宠物（Desktop Pet）项目，目标是在桌面上�
 | 文件 | 大小 | SHA-256 |
 | --- | --- | --- |
 | [莫宁桌宠.zip](./莫宁桌宠.zip) | 26.9 MB | `A2B6D1FCE3B399F6E88E8CF2B1DD67D95D7F920D75392225F987E868DAAA34B5` |
+| [aemeath-v1.2.5.zip](./aemeath-v1.2.5.zip) | 12.2 MB | `0EEE28BAA0DE165F58244BC224B72918AB6844CE6A794429EF4A09D993BC6FC0` |
 
 ## 仓库结构
 
